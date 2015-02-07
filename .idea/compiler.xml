@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ci_action" />
+        <module name="ci_common" />
+        <module name="ci_dao" />
+        <module name="ci_layout" />
+        <module name="ci_po" />
+        <module name="ci_service" />
+        <module name="ci_vo" />
+        <module name="core" />
+        <module name="layout" />
+        <module name="log" />
+        <module name="schedule" />
+        <module name="test" />
+        <module name="TestProject_Action" />
+        <module name="TestProject_Dao" />
+        <module name="TestProject_Service" />
+        <module name="TestProject_VO" />
+        <module name="util" />
+        <module name="uwp_accesscontrol" />
+        <module name="uwp_cli" />
+        <module name="uwp_common" />
+        <module name="uwp_common2" />
+        <module name="uwp_core" />
+        <module name="uwp_log" />
+        <module name="uwp_memoryMgr" />
+        <module name="uwp_schedule" />
+        <module name="uwp_webcontroller" />
+        <module name="uwp_webscoket" />
+        <module name="webscoket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="uwp_webscoket" target="1.6" />
+      <module name="webscoket" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
+

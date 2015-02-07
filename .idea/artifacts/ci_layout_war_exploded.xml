@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ci_layout:war exploded">
+    <output-path>$PROJECT_DIR$/ci_layout/target/layout</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ci_layout/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ci_layout" />
+          <element id="module-output" name="uwp_webcontroller" />
+          <element id="module-output" name="uwp_accesscontrol" />
+          <element id="module-output" name="uwp_core" />
+          <element id="module-output" name="uwp_common" />
+          <element id="module-output" name="ci_common" />
+          <element id="module-output" name="ci_action" />
+          <element id="module-output" name="uwp_log" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: gson:gson:2.2.4" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: proxool:proxool:0.9.1" />
+          <element id="library" level="project" name="Maven: proxool-cglib:proxool-cglib:0.9.1" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.2" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.8" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

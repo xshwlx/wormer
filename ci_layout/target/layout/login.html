@@ -1,0 +1,133 @@
+<!--@author xushiheng at 2014/11/26-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="expires" CONTENT="0">
+    <title>UWP</title>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="assets/css/ace.min.css" rel="stylesheet"/>
+    <link href="assets/css/ace-skins.min.css" rel="stylesheet"/>
+    <link href="assets/css/ace-rtl.min.css" rel="stylesheet"/>
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
+
+    <!--[if lt IE 9]>
+    <script src="assets/js/html5shiv.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui/jquery-ui-1.10.2.custom.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/layout.css"/>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="jslib/html5shiv.js"></script>
+    <![endif]-->
+    <script data-main="js/main" src="jslib/require/require.js"></script>
+    <style type="text/css">
+        .carousel-control {
+            position: absolute;
+            top: 40%;
+            left: 15px;
+            width: 40px;
+            height: 40px;
+            margin-top: -20px;
+            font-size: 60px;
+            font-weight: 100;
+            line-height: 30px;
+            color: #ffffff;
+            text-align: center;
+            background: #222222;
+            /*border: 3px solid #ffffff;*/
+            -webkit-border-radius: 23px;
+            /*-moz-border-radius: 23px;*/
+            border-radius: 23px;
+            opacity: 0.5;
+            filter: alpha(opacity=50);
+        }
+
+        .container {
+            width: 80%;
+            height: 400px;
+            /*background: grey;*/
+            margin-top: 2%;
+            margin-left: 5%;
+        }
+
+        .form-signin {
+            height: 60%;
+            padding: 5%;
+            border-bottom: 1px solid #cbcbcb;
+        }
+
+        .form-signin .form-signin-heading,
+        .form-signin .checkbox {
+
+        }
+
+        .form-signin input[type="text"],
+        .form-signin input[type="password"] {
+            font-size: 16px;
+            height: auto;
+            margin-bottom: 15px;
+            padding: 6px 8px;
+            /*padding: 7%;*/
+        }
+
+        .uwp-login {
+            margin-right: 3%;
+            float: right;
+            width: 24%;
+            background: rgb(231, 231, 231);
+            border: 1px solid #eaeaea;
+            border-bottom: 1px solid #cbcbcb;
+            /* border-top: none; */
+            height: 440px;
+            box-shadow: 5px 5px 5px #DDD inset;
+
+        }
+
+        .showInfo {
+            background-color: rgb(250, 215, 226);
+            width: 70%;
+            height: 100%;
+            float: left;
+            float: left;
+            /* margin-top: 10%; */
+        }
+
+    </style>
+</head>
+<body class='login-body'>
+<div class="container">
+    <div style="font-size: xx-large;color: silver;">
+        <img src="img/JD.png">
+        持续集成平台
+    </div>
+    <div calss="showInfo" style="background-color: rgb(250, 215, 226);
+            width: 70%;
+            height: 100%;
+            float: left;
+            float: left;">
+        <img src="img/CIHome.png">
+    </div>
+    <div class="errorInfo" style="float: right;height: 10%">&nbsp;</div>
+    <div class="uwp-login">
+        <div class="form-signin login-div">
+            <h4 class="form-signin-heading">请输入用户名密码</h4>
+
+            <div >
+                <!--<li class="fa fa-user fa-2x"></li>-->
+                <input type="text" class="input-block-level" id="username" placeholder="用户名">
+            </div>
+            <div >
+                <!--<li class="fa fa-user fa-2x"></li>-->
+                <input type="password" class="input-block-level" id="password" placeholder="密码">
+            </div>
+            <button type="button" class="btn btn-large btn-primary" id="login" style="width: 100%;">登录</button>
+        </div>
+    </div>
+</div>
+<div id='foot' style="margin-top: 10%;margin-left: 35%;"><br>Copyright© 360buy京东商城 版权所有</div>
+<div id='loginErrorDiv'></div>
+</body>
+</html>

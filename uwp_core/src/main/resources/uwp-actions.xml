@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<actions>
+    <action name="loginAction" class="com.jd.uwp.core.db.module.BaseServiceImpl">
+    </action>
+</actions>

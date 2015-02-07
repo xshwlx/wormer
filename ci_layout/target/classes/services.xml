@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <service name="baseService" class="com.jd.uwp.core.db.service.BaseServiceImpl">
+        <dao name="baseDao" class="com.jd.uwp.core.db.mysql.dao.BaseDaoImpl"/>
+    </service>
+</root>

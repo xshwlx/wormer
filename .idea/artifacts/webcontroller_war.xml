@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webcontroller:war">
+    <output-path>$PROJECT_DIR$/webcontroller/target</output-path>
+    <root id="archive" name="webcontroller.war" />
+  </artifact>
+</component>

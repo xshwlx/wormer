@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webcontroller:war exploded">
+    <output-path>$PROJECT_DIR$/webcontroller/target/webcontroller</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="webcontroller/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="uwp_webcontroller" />
+          <element id="module-output" name="uwp_log" />
+          <element id="module-output" name="ci_common" />
+          <element id="module-output" name="uwp_common" />
+          <element id="module-output" name="ci_action" />
+          <element id="module-output" name="uwp_core" />
+          <element id="module-output" name="uwp_accesscontrol" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

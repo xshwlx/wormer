@@ -1,0 +1,27 @@
+%packagePath%
+
+%importClass%
+
+public  class %tableName% extends TableBean{
+
+    public %tableName%(){
+        this.clear();
+    }
+
+    public void clear(){
+        %clearStatement%
+    }
+
+    %defineField%
+    %defineFieldDesc%
+
+	public boolean set(ResultSet rs) {
+		try {
+            %setResultSet%
+			return true;
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+}

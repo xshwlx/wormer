@@ -34,6 +34,12 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ci_action/pom.xml" />
+        <option value="$PROJECT_DIR$/ci_common/pom.xml" />
+        <option value="$PROJECT_DIR$/ci_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/ci_po/pom.xml" />
+        <option value="$PROJECT_DIR$/ci_service/pom.xml" />
+        <option value="$PROJECT_DIR$/ci_vo/pom.xml" />
         <option value="$PROJECT_DIR$/core/pom.xml" />
         <option value="$PROJECT_DIR$/pass_core/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
@@ -62,4 +68,3 @@
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
 </project>
-

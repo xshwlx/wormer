@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ci_action/ci_action.iml" filepath="$PROJECT_DIR$/ci_action/ci_action.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ci_common/ci_common.iml" filepath="$PROJECT_DIR$/ci_common/ci_common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ci_dao/ci_dao.iml" filepath="$PROJECT_DIR$/ci_dao/ci_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ci_layout/ci_layout.iml" filepath="$PROJECT_DIR$/ci_layout/ci_layout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ci_po/ci_po.iml" filepath="$PROJECT_DIR$/ci_po/ci_po.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ci_service/ci_service.iml" filepath="$PROJECT_DIR$/ci_service/ci_service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ci_vo/ci_vo.iml" filepath="$PROJECT_DIR$/ci_vo/ci_vo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cooci.iml" filepath="$PROJECT_DIR$/cooci.iml" />
       <module fileurl="file://$PROJECT_DIR$/uwp_accesscontrol/uwp_accesscontrol.iml" filepath="$PROJECT_DIR$/uwp_accesscontrol/uwp_accesscontrol.iml" />
       <module fileurl="file://$PROJECT_DIR$/uwp_cli/uwp_cli.iml" filepath="$PROJECT_DIR$/uwp_cli/uwp_cli.iml" />
@@ -22,4 +16,3 @@
     </modules>
   </component>
 </project>
-

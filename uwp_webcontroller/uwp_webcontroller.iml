@@ -11,12 +11,9 @@
     <orderEntry type="library" name="Maven: gson:gson:2.2.4" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:javax.servlet-api:3.0.1" level="project" />
     <orderEntry type="module" module-name="uwp_log" />
-    <orderEntry type="module" module-name="ci_common" />
     <orderEntry type="module" module-name="uwp_common" />
-    <orderEntry type="module" module-name="ci_action" />
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.17" level="project" />
     <orderEntry type="module" module-name="uwp_accesscontrol" />
     <orderEntry type="module" module-name="uwp_core" />
   </component>
 </module>
-

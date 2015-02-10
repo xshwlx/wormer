@@ -22,13 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ci_action" />
-        <module name="ci_common" />
-        <module name="ci_dao" />
         <module name="ci_layout" />
-        <module name="ci_po" />
-        <module name="ci_service" />
-        <module name="ci_vo" />
         <module name="core" />
         <module name="layout" />
         <module name="log" />
@@ -58,4 +52,3 @@
     </bytecodeTargetLevel>
   </component>
 </project>
-

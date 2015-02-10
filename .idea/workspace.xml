@@ -1,429 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="1f25c573-209b-478a-b70b-6efab8af4941" name="Default" comment="项目初始化">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/dao" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp" />
-      <change type="NEW" beforePath="" afterPath="D:\UWPPlateForm\UWPWeb\.idea\libraries\UWPWeb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/daoImpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/DESUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/service" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ci_common/src/main/java/com/jd/cooci" />
-      <change type="NEW" beforePath="" afterPath="D:\UWPPlateForm\UWPWeb\uwp_accesscontrol\src\main\java\com.jd.uwp.accesscontrol.po" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om/TestDeleteObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ci_common/src/main/java/com/jd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ci_layout_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ci_common/src/main/java/com/jd/cooci/util" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ci_layout/src/main/resources/services.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/serviceImpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/daoImpl/UserDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om/TestAddObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/serviceImpl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om/TestQueryObjectList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om/TestUpdateObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db.mysql/dao/ResultSetHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/service/IUserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/ci_layout_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="D:\UWPPlateForm\UWPWeb\ci_common\src\main\java\com\jd\cooci\util\Db2Po.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uwp_core/src/test/java/com/jd/uwp/core/test/om/TestQueryObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ci_layout/src/main/resources/actions.xml" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\layout.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_common\src\main\java\com\jd\cooci\utils" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\idda.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\util.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\uwp-services.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_common\src\main\java\com\jd\cooci\utils\db2po" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources\cooci.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\ci.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\uwp-actions.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\uwp-proxool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ci_layout/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\resources\cooci.xml" afterPath="" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\initStatus.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/initStatus.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources\uwp-proxool.xml" afterPath="$PROJECT_DIR$/ci_layout/src/main/resources/proxool.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\i18n\grid.locale-en.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/i18n/grid.locale-en.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap-responsive.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap-responsive.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-popover.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-popover.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\ace.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/ace.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_service/ci_service.iml" afterPath="$PROJECT_DIR$/ci_service/ci_service.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.ui.touch-punch.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.ui.touch-punch.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-5.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_log/uwp_log.iml" afterPath="$PROJECT_DIR$/uwp_log/uwp_log.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\respond.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/respond.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\jquery-ui-1.10.3.custom.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/jquery-ui-1.10.3.custom.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db.mysql/dao/BaseDaoImpl.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db.mysql/dao/BaseDaoImpl.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\WEB-INF\web.xml" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\WEB-INF\web_.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap-theme.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\icons.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_webscoket/uwp_webscoket.iml" afterPath="$PROJECT_DIR$/uwp_webscoket/uwp_webscoket.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\x-editable" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/x-editable" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/po/TableBean.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/po/TableBean.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\require-jquery.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/require-jquery.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\role" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/role" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\profile-pic.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/profile-pic.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\paasControllerUtil.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/paasControllerUtil.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-modal.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-modal.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\base.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/base.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\images\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/images/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-1.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-1.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\images\loading.gif" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/images/loading.gif" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img\slide-01.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img/slide-01.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery-ui-1.10.3.custom.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery-ui-1.10.3.custom.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/util/Table2Po.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/util/Table2Po.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fullcalendar.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fullcalendar.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\jquery.jqGrid.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/jquery.jqGrid.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.json.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.json.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.blockUI.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.blockUI.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_vo/ci_vo.iml" afterPath="$PROJECT_DIR$/ci_vo/ci_vo.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap-responsive.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img\slide-02.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img/slide-02.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\date-time\bootstrap-datepicker.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/date-time/bootstrap-datepicker.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-1.9.1.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-1.9.1.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\role\admin.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/role/admin.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\lang\zh.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/lang/zh.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.hotkeys.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.hotkeys.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.gritter.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.gritter.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_dao/ci_dao.iml" afterPath="$PROJECT_DIR$/ci_dao/ci_dao.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\require.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/require.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery-ui-1.10.3.full.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery-ui-1.10.3.full.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\images" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/images" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\Thumbs.db" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/Thumbs.db" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.maskedinput.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.maskedinput.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-6.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-6.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\css.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/css.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\bootstrap-editable.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/bootstrap-editable.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout" afterPath="$PROJECT_DIR$/ci_layout" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-5.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_log/src/main/java/com/jd/uwp/log/UWPLog.java" afterPath="$PROJECT_DIR$/uwp_log/src/main/java/com/jd/uwp/log/UWPLog.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\layout.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/layout.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\sidebar" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/sidebar" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\bordered-pulled.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/bordered-pulled.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-icons_888888_256x240.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_common/src/main/java/com" afterPath="$PROJECT_DIR$/ci_common/src/main/java/com" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-scrollspy.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-scrollspy.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar4.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar4.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\smartwizard\smart_wizard.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/smartwizard/smart_wizard.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.droppable.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.droppable.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\html5shiv.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/html5shiv.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\typeahead-bs2.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/typeahead-bs2.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\mixins.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/mixins.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-3.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-3.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.draggable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.draggable.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_webcontroller/src/main/java/com/jd/uwp/webcontroller/FrameActionRegister.java" afterPath="$PROJECT_DIR$/uwp_webcontroller/src/main/java/com/jd/uwp/webcontroller/FrameActionRegister.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap.css.map" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap.css.map" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.nestable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.nestable.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\i18n" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/i18n" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\ProgressMessage.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/ProgressMessage.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\flashsocket-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/flashsocket-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-1.8.3.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-1.8.3.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\date-time" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/date-time" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery-ui-1.10.2.custom.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery-ui-1.10.2.custom.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\font\fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/font/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\framecontroller.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/framecontroller.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\bootstrap-wysiwyg.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/bootstrap-wysiwyg.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\date.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/date.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.knob.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.knob.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\role\domainadmin.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/role/domainadmin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_common/ci_common.iml" afterPath="$PROJECT_DIR$/ci_common/ci_common.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.core.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.core.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\spinning.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/spinning.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.smartWizard-2.0.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.smartWizard-2.0.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-transition.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-transition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_accesscontrol/uwp_accesscontrol.iml" afterPath="$PROJECT_DIR$/uwp_accesscontrol/uwp_accesscontrol.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-carousel.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-carousel.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\selectTools.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/selectTools.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.droppable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.droppable.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\breadcrumb" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/breadcrumb" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\knockout" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/knockout" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\js\moment.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/js/moment.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_action/ci_action.iml" afterPath="$PROJECT_DIR$/ci_action/ci_action.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\excanvas.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/excanvas.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\init.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/init.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.inputlimiter.1.3.1.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.inputlimiter.1.3.1.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\pages" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/modules" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\flot" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/flot" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\images" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/images" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\x-editable\bootstrap-editable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/x-editable/bootstrap-editable.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\datepicker.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/datepicker.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\images\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/images/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts\fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\java" afterPath="$PROJECT_DIR$/ci_layout/src/main/java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db/service/BaseServiceImpl.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db/service/BaseServiceImpl.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-6.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-6.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\colorbox.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/colorbox.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.slimscroll.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\ace-ie.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/ace-ie.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\ui.jqgrid.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/ui.jqgrid.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\date-time\daterangepicker.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/date-time/daterangepicker.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\bootbox.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/bootbox.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-collapse.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-collapse.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_log/src/main/java/com/jd/uwp/log/LogMessage.java" afterPath="$PROJECT_DIR$/uwp_log/src/main/java/com/jd/uwp/log/LogMessage.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\select2.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/select2.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img\JD.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img/JD.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery-ui-1.10.2.custom.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery-ui-1.10.2.custom.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\main.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/main.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\ace-elements.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/ace-elements.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\initcopy.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/initcopy.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\js\jquery-1.7.2.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/js/jquery-1.7.2.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\namespace-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/namespace-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\flot\jquery.flot.pie.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/flot/jquery.flot.pie.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__gson_gson_2_2_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__gson_gson_2_2_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.cookies.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.cookies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_webcontroller/src/main/java/com/jd/uwp/webcontroller/session/Session.java" afterPath="$PROJECT_DIR$/uwp_webcontroller/src/main/java/com/jd/uwp/webcontroller/session/Session.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\jquery-ui-1.10.2.custom.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/jquery-ui-1.10.2.custom.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\js\socket.io" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/js/socket.io" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.autosize.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.autosize.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_po/ci_po.iml" afterPath="$PROJECT_DIR$/ci_po/ci_po.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources\log4j.properties" afterPath="$PROJECT_DIR$/ci_layout/src/main/resources/log4j.properties" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-typeahead.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-typeahead.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\markdown\markdown.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/markdown/markdown.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\chosen.jquery.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/chosen.jquery.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.colorbox-min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.colorbox-min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\smartwizard\smart_wizard_vertical.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/smartwizard/smart_wizard_vertical.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\fixed-width.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/layout_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/layout_war_exploded.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src" afterPath="$PROJECT_DIR$/ci_layout/src" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\ack-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/ack-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts\fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img\slide-03.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img/slide-03.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\css.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/css.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\confirm.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/confirm.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\dropzone.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/dropzone.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar2.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar2.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\animated-overlay.gif" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/animated-overlay.gif" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\font" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/font" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/dbconnction/DBConnection.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/dbconnction/DBConnection.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.uploadify.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.uploadify.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\jquery.gritter.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/jquery.gritter.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux\fuelux.wizard.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux/fuelux.wizard.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux\fuelux.tree.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux/fuelux.tree.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar3.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar3.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\loginerror.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/loginerror.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\list.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/list.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\colorpicker.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/colorpicker.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\pageDataMessage.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/pageDataMessage.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\bootstrap-timepicker.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/bootstrap-timepicker.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\page.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/page.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/resources/tableModelOfCommon.txt" afterPath="$PROJECT_DIR$/uwp_core/src/main/resources/tableModelOfCommon.txt" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\alert.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/alert.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-dropdown.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-dropdown.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\date-time\bootstrap-timepicker.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/date-time/bootstrap-timepicker.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\frame.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/frame.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\uwp_common\src\main\java\com\jd\uwp\common\utils\Sys.java" afterPath="$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/WebApp.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\markdown\bootstrap-markdown.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/markdown/bootstrap-markdown.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\knockout\knockout-2.2.1.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/knockout/knockout-2.2.1.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\Logger.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/Logger.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\lang\en.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/lang/en.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\variables.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/variables.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.easy-pie-chart.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.easy-pie-chart.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\jquery-ui-1.10.2.custom.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/jquery-ui-1.10.2.custom.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\progressBar.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/progressBar.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts\fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\config.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/config.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\flot\jquery.flot.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/flot/jquery.flot.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\font-awesome.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/font-awesome.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar1.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar1.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\markdown" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/markdown" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-icons_454545_256x240.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\user.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/user.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\underscore" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/underscore" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\ssl-event-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/ssl-event-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.uploadify.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.uploadify.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\backbone" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/backbone" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\underscore\underscore-min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/underscore/underscore-min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\i18n\grid.locale-cn.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/i18n/grid.locale-cn.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jqGrid\i18n" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jqGrid/i18n" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.dataTables.bootstrap.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.dataTables.bootstrap.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.smartWizard-2.0.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.smartWizard-2.0.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\img\CIHome.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/img/CIHome.png" />
-      <change type="MODIFICATION" beforePath="D:\UWPPlateForm\UWPWeb\uwp_accesscontrol\src\main\java\com\jd\uwp\accesscontrol\action\LoginAction.java" afterPath="D:\UWPPlateForm\UWPWeb\uwp_accesscontrol\src\main\java\com\jd\uwp\accesscontrol\action\LoginAction.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-tab.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-tab.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\images\Thumbs.db" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/images/Thumbs.db" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\stacked.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/stacked.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.validate.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.validate.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\role\user.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/role/user.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-alert.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-alert.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\js\socket.io\socket.io.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/js/socket.io/socket.io.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\firebugx.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/firebugx.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main" afterPath="$PROJECT_DIR$/ci_layout/src/main" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\backbone\backbone-min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/backbone/backbone-min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jqGrid" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jqGrid" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\ace-extra.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/ace-extra.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\additional-methods.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/additional-methods.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars\avatar5.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars/avatar5.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources\uwp-services.xml" afterPath="$PROJECT_DIR$/uwp_core/src/main/resources/uwp-services.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\ace-skins.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/ace-skins.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.validate.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.validate.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/JsonUtil.java" afterPath="$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/JsonUtil.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-2.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\ace-rtl.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/ace-rtl.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\domReady.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/domReady.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\fullcalendar.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/fullcalendar.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\css\font-awesome.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db/service/BaseService.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/db/service/BaseService.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.mobile.custom.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.mobile.custom.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\string.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/string.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\text.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/text.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts\FontAwesome.otf" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\dropzone.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/dropzone.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\core.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/core.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery-ui.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery-ui.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\select2.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/select2.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\avatars" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/avatars" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\ie-placeholder.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/ie-placeholder.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\jquery-ui-1.10.3.full.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/jquery-ui-1.10.3.full.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-4.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-4.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux\data\fuelux.tree-sampledata.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux/data/fuelux.tree-sampledata.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-2.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-2.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\rotated-flipped.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/rotated-flipped.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-1.8.3.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\font-awesome-ie7.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/font-awesome-ie7.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\chosen.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/chosen.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\smartwizard" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/smartwizard" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.draggable.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.draggable.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\path.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/path.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jqGrid\i18n\grid.locale-en.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jqGrid/i18n/grid.locale-en.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources" afterPath="$PROJECT_DIR$/ci_layout/src/main/resources" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\CLILogger.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/CLILogger.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/uwp_core.iml" afterPath="$PROJECT_DIR$/uwp_core/uwp_core.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\alert.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/alert.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\smartwizard\demo_style.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/smartwizard/demo_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_schedule/uwp_schedule.iml" afterPath="$PROJECT_DIR$/uwp_schedule/uwp_schedule.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.jstree.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.jstree.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\less\larger.less" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/less/larger.less" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\confirm.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/confirm.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.widget.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.widget.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\date-time\moment.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/date-time/moment.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\event-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/event-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\context.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/context.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require\require.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require/require.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jqGrid\jquery.jqGrid.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jqGrid/jquery.jqGrid.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux\data" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux/data" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\pom.xml" afterPath="$PROJECT_DIR$/ci_layout/pom.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\progressBar.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/progressBar.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\font-awesome.scss" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ci_action/src/main/java/com/jd/ci/action/UserActionRegister.java" afterPath="$PROJECT_DIR$/ci_action/src/main/java/com/jd/ci/action/UserActionRegister.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_common/uwp_common.iml" afterPath="$PROJECT_DIR$/uwp_common/uwp_common.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.core.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.core.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-button.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-button.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.sortable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.sortable.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\modules\navbar" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/layout/navbar" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.dataTables.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\lang" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/lang" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\bootstrap-tag.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/bootstrap-tag.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\bootstrap\bootstrap.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/bootstrap/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/vo/LoginUser.java" afterPath="$PROJECT_DIR$/uwp_accesscontrol/src/main/java/com/jd/uwp/accesscontrol/vo/LoginUser.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\fonts" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/font-awesome-4.2.0/fonts" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\binary-event-index.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/binary-event-index.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\x-editable\ace-editable.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/x-editable/ace-editable.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\ace.min.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/ace.min.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\image-3.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/image-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/ioc/ServiceFactory.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/ioc/ServiceFactory.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\jquery.jqGrid.src.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/jquery.jqGrid.src.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\backbone\backbone.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/backbone/backbone.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\fuelux\fuelux.spinner.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/fuelux/fuelux.spinner.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-ui\jquery.ui.mouse.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-ui/jquery.ui.mouse.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\require" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/require" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\resources\uwp-actions.xml" afterPath="$PROJECT_DIR$/uwp_core/src/main/resources/uwp-actions.xml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\bootstrap-colorpicker.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/bootstrap-colorpicker.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery.md5.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery.md5.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\layout.iml" afterPath="$PROJECT_DIR$/ci_layout/ci_layout.iml" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery-2.0.3.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery-2.0.3.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-1.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-1.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\css\daterangepicker.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/css/daterangepicker.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\html5shiv.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/html5shiv.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\images\gallery\thumb-4.jpg" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/images/gallery/thumb-4.jpg" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\underscore\underscore.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/underscore/underscore.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\demo\scoketio\bootstrap.css" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/demo/scoketio/bootstrap.css" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\login.html" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/login.html" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\uwp_core\src\main\java\com\jd\uwp\core\util\ReadDB.java" afterPath="$PROJECT_DIR$/uwp_core/src/main/java/com/jd/uwp/core/util/PoCreater.java" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\jquery-ui\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/css/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\jquery.sparkline.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/jquery.sparkline.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\assets\js\flot\jquery.flot.resize.min.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/assets/js/flot/jquery.flot.resize.min.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\jquery\jquery-jqGrid\jquery.jqGrid.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/jquery/jquery-jqGrid/jquery.jqGrid.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\bootstrap\bootstrap-tooltip.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/bootstrap/bootstrap-tooltip.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\js\base\role.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/js/base/role.js" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\jslib\ga.js" afterPath="$PROJECT_DIR$/ci_layout/src/main/webapp/jslib/ga.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cooci.iml" afterPath="$PROJECT_DIR$/cooci.iml" />
-    </list>
-    <list id="9df9b06f-18cd-4c9b-aaff-3750e6c1dbbb" name="del" comment="">
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_fixed-width.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_fixed-width.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_list.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_list.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_stacked.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_stacked.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_variables.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_variables.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_spinning.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_spinning.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_rotated-flipped.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_rotated-flipped.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_icons.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_icons.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_core.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_core.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_larger.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_larger.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_path.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_path.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_mixins.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_mixins.scss" />
-      <change type="MOVED" beforePath="D:\UWPPlateForm\UWPWeb\layout\src\main\webapp\css\font-awesome-4.2.0\scss\_bordered-pulled.scss" afterPath="D:\UWPPlateForm\UWPWeb\ci_layout\src\main\webapp\css\font-awesome-4.2.0\scss\_bordered-pulled.scss" />
-    </list>
+    <list default="true" readonly="true" id="1f25c573-209b-478a-b70b-6efab8af4941" name="Default" comment="项目初始化" />
+    <list id="9df9b06f-18cd-4c9b-aaff-3750e6c1dbbb" name="del" comment="" />
     <ignored path="UWPWeb.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1421984396313" ignored="false" />
@@ -674,7 +253,7 @@
     <file path="D:/Guidance/src/main/java/com/jd/common/webservice/GetUserResponse.java" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1421824084871" ignored="false" />
     <file path="D:/Guidance/src/main/java/com/jd/common/webservice/GetNewDeptListByUserpin.java" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1421824084872" ignored="false" />
     <file path="D:/Guidance/src/main/java/com/jd/common/webservice/GetNewDeptByUserpinResponse.java" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1421824084873" ignored="false" />
-    <file path="D:/Guid/.idea/workspace.xml" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1422238115870" ignored="false" />
+    <file path="D:/Guid/.idea/workspace.xml" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1423562096350" ignored="false" />
     <file path="D:/Guid/src/main/resources/spring-mybatis.xml" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1422414829223" ignored="false" />
     <file path="D:/Guid/src/main/webapp/WEB-INF/web.xml" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1422414829225" ignored="false" />
     <file path="D:/Guid/src/main/webapp/index.jsp" changelist="1f25c573-209b-478a-b70b-6efab8af4941" time="1421926791949" ignored="false" />
@@ -886,7 +465,7 @@
       <file leaf-file-name="WebApp.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/WebApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="95" selection-start="4262" selection-end="4262" vertical-scroll-proportion="0.035315987">
+            <state line="172" column="57" selection-start="4680" selection-end="4680" vertical-scroll-proportion="0.5650558">
               <folding />
             </state>
           </provider>
@@ -1083,7 +662,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UWPWeb" />
+              <option name="myItemId" value="wormer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1715,92 +1294,6 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\.idea" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\.idea" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_action" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_action" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_common" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_common" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_dao" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_dao" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_layout" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_layout" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_po" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_po" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_service" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_service" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\ci_vo" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\ci_vo" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_accesscontrol" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_accesscontrol" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_cli" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_cli" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_common" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_common" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_core" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_core" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_log" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_log" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_memoryMgr" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_memoryMgr" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_schedule" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_schedule" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_webcontroller" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_webcontroller" />
-        </SvnCopyRootSimple>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb\uwp_webscoket" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb\uwp_webscoket" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\UWPPlateForm\UWPWeb" />
-          <option name="myCopyRoot" value="D:\UWPPlateForm\UWPWeb" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1f25c573-209b-478a-b70b-6efab8af4941" name="Default" comment="" />
@@ -1849,7 +1342,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30153322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6115843" order="8" side_tool="false" content_ui="tabs" />
@@ -1869,7 +1362,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18328221" sideWeight="0.82662" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44658494" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24772727" sideWeight="0.7565674" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24772727" sideWeight="0.7565674" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24701874" sideWeight="0.58484846" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2044,7 +1537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/uwp_common/src/main/java/com/jd/uwp/common/utils/WebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="95" selection-start="4262" selection-end="4262" vertical-scroll-proportion="0.035315987">
+        <state line="172" column="57" selection-start="4680" selection-end="4680" vertical-scroll-proportion="0.5650558">
           <folding />
         </state>
       </provider>

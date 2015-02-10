@@ -1,18 +1,8 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="ci_layout:war">
+  <artifact type="war" name="ci_layout:war">
     <output-path>$PROJECT_DIR$/ci_layout/target</output-path>
-    <root id="root">
+    <root id="archive" name="layout.war">
       <element id="artifact" artifact-name="ci_layout:war exploded" />
-      <element id="directory" name="WEB-INF">
-        <element id="directory" name="classes">
-          <element id="module-output" name="uwp_webcontroller" />
-          <element id="module-output" name="uwp_core" />
-          <element id="module-output" name="uwp_common" />
-          <element id="module-output" name="uwp_accesscontrol" />
-          <element id="module-output" name="ci_common" />
-          <element id="module-output" name="ci_action" />
-        </element>
-      </element>
     </root>
   </artifact>
 </component>

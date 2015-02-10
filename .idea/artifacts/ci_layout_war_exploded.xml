@@ -6,13 +6,6 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="ci_layout" />
-          <element id="module-output" name="uwp_webcontroller" />
-          <element id="module-output" name="uwp_accesscontrol" />
-          <element id="module-output" name="uwp_core" />
-          <element id="module-output" name="uwp_common" />
-          <element id="module-output" name="ci_common" />
-          <element id="module-output" name="ci_action" />
-          <element id="module-output" name="uwp_log" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: gson:gson:2.2.4" />

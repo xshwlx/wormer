@@ -22,7 +22,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ci_layout" />
         <module name="core" />
         <module name="layout" />
         <module name="log" />
@@ -33,16 +32,7 @@
         <module name="TestProject_Service" />
         <module name="TestProject_VO" />
         <module name="util" />
-        <module name="uwp_accesscontrol" />
-        <module name="uwp_cli" />
-        <module name="uwp_common" />
         <module name="uwp_common2" />
-        <module name="uwp_core" />
-        <module name="uwp_log" />
-        <module name="uwp_memoryMgr" />
-        <module name="uwp_schedule" />
-        <module name="uwp_webcontroller" />
-        <module name="uwp_webscoket" />
         <module name="webscoket" />
       </profile>
     </annotationProcessing>
@@ -52,3 +42,4 @@
     </bytecodeTargetLevel>
   </component>
 </project>
+
